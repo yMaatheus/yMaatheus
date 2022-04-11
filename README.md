@@ -1,4 +1,4 @@
-## Olá me chamo Matheus Henrique, pessoa desenvolvedora estudante na Trybe!
+## Olá me chamo Matheus Henrique, sou pessoa desenvolvedora estudante na Trybe!
 
 <div align="center">
   <a href="https://github.com/yMaatheus">
