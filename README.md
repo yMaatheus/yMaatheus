@@ -1,7 +1,5 @@
 <div align="center">
-  <h3>
-    Olá, meu nome é Matheus 😃👋
-  </h3>
+  <h3>Olá, meu nome é Matheus 😃👋</h3>
 </div>
 
 <div align="center">
@@ -11,6 +9,7 @@
 </div>
 
 ### Linguagens e ferramentas:
+
 <br>
 
 <div style="display: inline_block">
