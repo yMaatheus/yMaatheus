@@ -15,7 +15,7 @@ Sou estudante de Desenvolvimento Web Full Stack na **Trybe**.
 <div align="center">
   <a href="https://github.com/yMaatheus">
   <img height="170rem" src="https://github-readme-stats.vercel.app/api?username=yMaatheus&theme=dark&include_all_commits=true&count_private=true&show_icons=true"/>
-  <img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yMaatheus&layout=compact&langs_count=10&theme=dark"/>
+  <img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yMaatheus&layout=compact&langs_count=10"/>
 </div>
 
 #
