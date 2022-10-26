@@ -10,6 +10,10 @@ Meu hobby é **programar** e ouvir música.
 
 Sou estudante de Desenvolvimento Web Full Stack na **Trybe**.
 
+Estou estudando **Python**
+
+Tenho interesse em aprender: Spring Boot e C#
+
 #
 
 <div align="center">
