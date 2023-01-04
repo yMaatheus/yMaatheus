@@ -8,7 +8,7 @@ Moro em João Pessoa/PB.
 
 Meu hobby é **programar** e ouvir música.
 
-Sou estudante de Desenvolvimento Web Full Stack na **Trybe**.
+Desenvolvedor Web Full Stack.
 
 Estou estudando **Python**
 
