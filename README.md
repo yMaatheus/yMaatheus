@@ -6,8 +6,6 @@ Olá, me chamo **Matheus Henrique** 😃👋.
 
 Moro em João Pessoa/PB.
 
-Meu hobby é **programar** e ouvir música.
-
 Desenvolvedor Web Full Stack.
 
 Estou estudando **Python**
