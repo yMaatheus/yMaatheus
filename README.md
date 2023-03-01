@@ -16,7 +16,7 @@ Tenho interesse em aprender: Spring Boot e C#
 
 <div align="center">
   <a href="https://github.com/yMaatheus">
-  <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=yMaatheus&theme=dark&include_all_commits=true&count_private=true&show_icons=true"/>
+  <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=yMaatheus&theme=dark&show_icons=true&count_private=true"/>
   <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yMaatheus&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
