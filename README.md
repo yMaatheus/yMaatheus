@@ -10,8 +10,6 @@ Desenvolvedor Web Full Stack.
 
 Estou estudando **Python**
 
-Tenho interesse em aprender: Spring Boot e C#
-
 #
 
 <div align="center">
