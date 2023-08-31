@@ -8,8 +8,6 @@ Moro em João Pessoa/PB.
 
 Desenvolvedor Web Full Stack.
 
-Estou estudando **Python**
-
 #
 
 <div align="center">
