@@ -2,11 +2,9 @@
 
 <div align="center">
 
-Olá, me chamo **Matheus Henrique** 😃👋.
+👋 Olá, me chamo **Matheus Henrique**.
 
-Moro em João Pessoa/PB.
-
-Desenvolvedor Web Full Stack.
+Seja bem vindo ao meu perfil! 😃
 
 #
 
